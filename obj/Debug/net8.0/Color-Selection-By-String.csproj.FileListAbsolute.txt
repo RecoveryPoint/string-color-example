@@ -1,0 +1,14 @@
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\Color-Selection-By-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\Color-Selection-By-String.AssemblyInfoInputs.cache
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\Color-Selection-By-String.AssemblyInfo.cs
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\Color-Selection-By-String.csproj.CoreCompileInputs.cache
+C:\Projects\Color-Selection-By-String\bin\Debug\net8.0\Color-Selection-By-String.exe
+C:\Projects\Color-Selection-By-String\bin\Debug\net8.0\Color-Selection-By-String.deps.json
+C:\Projects\Color-Selection-By-String\bin\Debug\net8.0\Color-Selection-By-String.runtimeconfig.json
+C:\Projects\Color-Selection-By-String\bin\Debug\net8.0\Color-Selection-By-String.dll
+C:\Projects\Color-Selection-By-String\bin\Debug\net8.0\Color-Selection-By-String.pdb
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\Color-Selection-By-String.dll
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\refint\Color-Selection-By-String.dll
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\Color-Selection-By-String.pdb
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\Color-Selection-By-String.genruntimeconfig.cache
+C:\Projects\Color-Selection-By-String\obj\Debug\net8.0\ref\Color-Selection-By-String.dll

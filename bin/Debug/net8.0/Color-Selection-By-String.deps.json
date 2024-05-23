@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Color-Selection-By-String/1.0.0": {
+        "runtime": {
+          "Color-Selection-By-String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Color-Selection-By-String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
